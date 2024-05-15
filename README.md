@@ -1,1 +1,1 @@
-# SQL_ICP_Generator
+# SQL ICP Generator
